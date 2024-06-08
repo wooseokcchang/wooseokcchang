@@ -1,0 +1,272 @@
+,fundmanager.list[j],ticker,companyname,portfoliopercentage,sharesowned,valueowned,changeinshare,averagebuyprice,valuedate,Industry
+1,Warren Buffett,AAPL,Apple Inc,40.81%,789.37M,$ 135.36B,39.59,$39.59 (+397.3%),2024-03-31,Tech
+2,Warren Buffett,BAC,Bank America Corp,11.81%,1.03B,$ 39.17B,25.78,$25.78 (+54.3%),2024-03-31,Finance
+3,Warren Buffett,AXP,American Express Co,10.41%,151.61M,$ 34.52B,71.11,$71.11 (+227.2%),2024-03-31,Finance
+4,Warren Buffett,KO,Coca Cola Co,7.38%,400M,$ 24.47B,40.28,$40.28 (+58.7%),2024-03-31,Cosumer Staple
+5,Warren Buffett,CVX,Chevron Corp New,5.85%,122.98M,$ 19.40B,132.76,$132.76 (+17.6%),2024-03-31,Consumer Discretionary
+6,Warren Buffett,OXY,Occidental Pete Corp,4.86%,248.02M,$ 16.12B,50.85,$50.85 (+17.0%),2024-03-31,Energy
+7,Warren Buffett,KHC,Kraft Heinz Co,3.62%,325.63M,$ 12.02B,77.86,$77.86 (-55.8%),2024-03-31,Cosumer Staple
+8,Warren Buffett,MCO,Moodys Corp,2.92%,24.67M,$ 9.70B,57.13,$57.13 (+606.6%),2024-03-31,Finance
+9,Warren Buffett, ,Chubb Limited,2.03%,25.92M,$ 6.72B,222.81,$222.81 (+19.9%),2024-03-31,Health Care
+10,Warren Buffett,CB,Davita Inc,1.50%,36.10M,$ 4.98B,60.38,$60.38 (+137.1%),2024-03-31,Health Care
+11,Warren Buffett,DVA,Citigroup Inc,1.05%,55.24M,$ 3.49B,56.88,$56.88 (+8.6%),2024-03-31,Finance
+12,Warren Buffett,C,Kroger Co,0.86%,50M,$ 2.86B,32.22,$32.22 (+61.3%),2024-03-31,Cosumer Staple
+13,Warren Buffett,KR,Verisign Inc,0.73%,12.82M,$ 2.43B,47.11,$47.11 (+283.1%),2024-03-31,Tech
+14,Warren Buffett,VRSN,Visa Inc,0.70%,8.30M,$ 2.32B,50.31,$50.31 (+453.9%),2024-03-31,Finance
+15,Warren Buffett,V,Liberty Media Corp Del,0.61%,70M,$ 2.03B,32.17,$32.17 (-35.0%),2024-04-29,Consumer Discretionary
+16,Warren Buffett,LSXMK,Mastercard Incorporated,0.58%,3.99M,$ 1.92B,61.06,$61.06 (+636.6%),2024-03-31,Finance
+17,Warren Buffett,MA,Capital One Finl Corp,0.56%,12.47M,$ 1.86B,96.24,$96.24 (+45.3%),2024-03-31,Finance
+18,Warren Buffett, ,Amazon Com Inc,0.54%,10M,$ 1.80B,83.05,$83.05 (+121.9%),2024-03-31,Tech
+19,Warren Buffett,COF,Aon Plc,0.41%,4.10M,$ 1.37B,221.63,$221.63 (+27.7%),2024-03-31,Health Care
+20,Warren Buffett,AMZN,Nu Hldgs Ltd,0.39%,107.12M,$ 1.28B,9.38,$9.38 (+26.8%),2024-03-31,Finance
+21,Warren Buffett,AON,Ally Finl Inc,0.35%,29M,$ 1.18B,40.61,$40.61 (-4.9%),2024-03-31,
+22,Warren Buffett,NU,Charter Communications Inc N,0.34%,3.83M,$ 1.11B,163.36,$163.36 (+69.5%),2024-03-31,
+23,Warren Buffett,ALLY,Liberty Media Corp Del,0.31%,35.18M,$ 1.02B,34.77,$34.77 (-39.6%),2024-04-26,
+24,Warren Buffett,CHTR,Snowflake Inc,0.30%,6.13M,$ 989.86M,212.92,$212.92 (-38.4%),2024-03-31,
+25,Warren Buffett,LSXMA,T-mobile Us Inc,0.26%,5.24M,$ 855.60M,117.54,$117.54 (+53.0%),2024-03-31,
+26,Warren Buffett,SNOW,Floor & Decor Hldgs Inc,0.19%,4.78M,$ 619.58M,106.95,$106.95 (+9.4%),2024-03-31,
+27,Warren Buffett,"Did you know: Institutional investors often buy when small investors sell, and vice versa",Louisiana Pac Corp,0.17%,6.60M,$ 553.63M,52.4,$52.4 (+71.7%),2024-03-31,
+28,Warren Buffett,TMUS,Liberty Media Corp Del,0.15%,7.72M,$ 506.59M,64.01,$64.01 (+12.3%),2024-03-31,
+29,Warren Buffett,FND,Liberty Media Corp Del,0.15%,11.13M,$ 487.83M,32.1,$32.1 (+14.7%),2024-03-31,
+30,Warren Buffett,LPX,Liberty Media Corp Del,0.06%,5.05M,$ 213.95M,31.92,$31.92 (+11.2%),2024-03-31,
+31,Warren Buffett,FWONK,Sirius Xm Holdings Inc,0.04%,36.68M,$ 142.33M,4.89,$4.89 (-47.6%),2024-03-31,
+32,Warren Buffett,LLYVK,Nvr Inc,0.03%,11.11k,$ 90.01M,5961.41,$5961.41 (+25.8%),2024-03-31,
+33,Warren Buffett,LLYVA,Paramount Global,0.03%,7.53M,$ 88.65M,31.64,$31.64 (-62.0%),2024-03-31,
+34,Warren Buffett,SIRI,Diageo Plc,0.01%,227.75k,$ 33.88M,179.69,$179.69 (-24.3%),2024-03-31,
+35,Warren Buffett,NVR,Lennar Corp,<.01%,152.57k,$ 23.52M,101.15,$101.15 (+52.4%),2024-03-31,
+36,Warren Buffett,"Did you know: HedgeFollow corrected over 1 million errors made by hedge funds and institutions, making it the gold standard for fund data.",Vanguard Index Fds,<.01%,43k,$ 20.67M,284.2,$284.2 (+72.9%),2024-03-31,
+37,Warren Buffett,PARA,Spdr S&p 500 Etf Tr,<.01%,39.40k,$ 20.61M,309.32,$309.32 (+72.9%),2024-03-31,
+38,Warren Buffett,DEO,Jefferies Finl Group Inc,<.01%,433.56k,$ 19.12M,28.56,$28.56 (+55.9%),2024-03-31,
+39,Warren Buffett,LENB,Liberty Latin America Ltd,<.01%,2.63M,$ 18.34M,35.16,$35.16 (-74.8%),2024-03-31,
+40,Warren Buffett,VOO,Liberty Latin America Ltd,<.01%,1.28M,$ 8.97M,34.05,$34.05 (-73.9%),2024-03-31,
+41,Warren Buffett,SPY,Atlanta Braves Hldgs Inc,<.01%,223.65k,$ 8.74M,37.68,$37.68 (+5.7%),2024-03-31,
+42,Warren Buffett,JEF,Hp Inc,0.00%,0,$0 ,35.78,$35.78 (+1.9%),2024-03-31,
+43,Warren Buffett,LILA,Apple Inc,40.81%,789.37M,$ 135.36B,39.59,$39.59 (+397.3%),2024-03-31,
+44,Warren Buffett,LILAK,Bank America Corp,11.81%,1.03B,$ 39.17B,25.78,$25.78 (+54.3%),2024-03-31,
+45,Warren Buffett,Want to see a new feature on HedgeFollow?  Let us know,American Express Co,10.41%,151.61M,$ 34.52B,71.11,$71.11 (+227.2%),2024-03-31,
+46,Warren Buffett,BATRK,Coca Cola Co,7.38%,400M,$ 24.47B,40.28,$40.28 (+58.7%),2024-03-31,
+47,Warren Buffett,HPQ,Chevron Corp New,5.85%,122.98M,$ 19.40B,132.76,$132.76 (+17.6%),2024-03-31,
+48,Carl Icahn,IEP,Icahn Enterprises Lp,53.52%,385.90M,$ 6.52B,55.15,$55.15 (-69.7%),2024-04-18,Finance
+49,Carl Icahn,CVI,Cvr Energy Inc,19.96%,66.69M,$ 2.38B,49.52,$49.52 (-45.5%),2024-03-31,Energy
+50,Carl Icahn,SWX,Southwest Gas Hldgs Inc,7.04%,11.02M,$ 839.15M,69.95,$69.95 (+5.9%),2024-03-31,Energy
+51,Carl Icahn,BHC,Bausch Health Cos Inc,3.09%,34.72M,$ 368.39M,25.12,$25.12 (-75.0%),2024-03-31,Health Care
+52,Carl Icahn,IFF,International Flavors&fragra,2.71%,3.75M,$ 322.46M,93.36,$93.36 (+5.5%),2024-03-31,Basic Material
+53,Carl Icahn,UAN,Cvr Partners Lp,2.57%,3.89M,$ 305.87M,72.05,$72.05 (+11.5%),2024-03-31,Basic Material
+54,Carl Icahn,DAN,Dana Inc,1.52%,14.29M,$ 181.44M,20.42,$20.42 (-34.0%),2024-03-31,Industrial
+55,Carl Icahn,JBLU,Jetblue Awys Corp,1.10%,17.73M,$ 131.53M,6.49,$6.49 (-14.3%),2024-03-31,Transportation
+56,Carl Icahn, ,Conduent Inc,1.08%,38.15M,$ 128.94M,13.21,$13.21 (-73.7%),2024-03-31,Tech
+57,Carl Icahn,CNDT,American Elec Pwr Co Inc,0.87%,1.21M,$ 103.78M,78.22,$78.22 (+12.9%),2024-03-31,
+58,Carl Icahn,AEP,Sandridge Energy Inc,0.59%,4.82M,$ 70.21M,20.58,$20.58 (-36.7%),2024-03-31,
+59,Carl Icahn,SD,Bausch Plus Lomb Corp,0.51%,3.50M,$ 60.55M,15.24,$15.24 (+0.5%),2024-03-31,
+60,Carl Icahn,BLCO,Illumina Inc,0.50%,430k,$ 59.05M,217.38,$217.38 (-47.7%),2024-03-31,
+61,Carl Icahn,ILMN,Newell Brands Inc,0.00%,0,$0 ,26.19,$26.19 (-71.9%),2024-03-31,
+62,Carl Icahn,NWL,Firstenergy Corp,0.00%,0,$0 ,32.65,$32.65 (+18.9%),2024-03-31,
+63,Carl Icahn,FE,Icahn Enterprises Lp,53.52%,385.90M,$ 6.52B,55.15,$55.15 (-69.7%),2024-04-18,
+64,Michael Burry,JD,Jd.com Inc,9.53%,360k,$ 9.86M,29.53,$29.53 (-0.7%),2024-03-31,Tech
+65,Michael Burry,BABA,Alibaba Group Hldg Ltd,8.74%,125k,$ 9.04M,80.42,$80.42 (-2.5%),2024-03-31,Tech
+66,Michael Burry,HCA,Hca Healthcare Inc,8.06%,25k,$ 8.34M,267.09,$267.09 (+26.3%),2024-03-31,Health Care
+67,Michael Burry,C,Citigroup Inc,7.64%,125k,$ 7.91M,48.5,$48.5 (+27.4%),2024-03-31,Finance
+68,Michael Burry,PHYS,Sprott Physical Gold Tr,7.37%,440.73k,$ 7.63M,16.62,$16.62 (+10.9%),2024-03-31,Finance
+69,Michael Burry,SQ,Block Inc,7.36%,90k,$ 7.61M,69.77,$69.77 (-6.7%),2024-03-31,Finance
+70,Michael Burry,CI,The Cigna Group,7.02%,20k,$ 7.26M,331.32,$331.32 (+2.0%),2024-03-31,Health Care
+71,Michael Burry,AAP,Advance Auto Parts Inc,6.99%,85k,$ 7.23M,61.05,$61.05 (+5.8%),2024-03-31,Industrial
+72,Michael Burry, ,Bp Plc,6.37%,175k,$ 6.59M,36.54,$36.54 (-3.5%),2024-03-31,Energy
+73,Michael Burry,BP,Vital Energy Inc,6.35%,125k,$ 6.57M,50.03,$50.03 (-10.8%),2024-03-31,Energy
+74,Michael Burry,VTLE,Star Bulk Carriers Corp.,5.77%,250k,$ 5.97M,19.58,$19.58 (+30.6%),2024-03-31,Other
+75,Michael Burry,SBLK,The Realreal Inc,5.34%,1.41M,$ 5.52M,2.29,$2.29 (+56.3%),2024-03-31,Tech
+76,Michael Burry,REAL,First Solar Inc,4.89%,30k,$ 5.06M,170.54,$170.54 (+56.8%),2024-03-31,Industrial
+77,Michael Burry,FSLR,Baidu Inc,4.07%,40k,$ 4.21M,112.19,$112.19 (-14.5%),2024-03-31,Tech
+78,Michael Burry,BIDU,American Coastal Ins Corp,2.60%,251.89k,$ 2.69M,8.69,$8.69 (+28.1%),2024-03-31,Real Estate
+79,Michael Burry,ACIC,Safe Bulkers Inc,1.92%,400k,$ 1.98M,3.76,$3.76 (+60.1%),2024-03-31,Transportation
+80,Michael Burry,SB,Warner Bros Discovery Inc,0.00%,0,$0 ,11.12,$11.12 (-25.6%),2024-03-31,
+81,Michael Burry, ,Toast Inc,0.00%,0,$0 ,18.5,$18.5 (+19.0%),2024-03-31,
+82,Michael Burry,WBD,Qurate Retail Inc,0.00%,0,$0 ,0.75,$0.75 (-2.7%),2024-03-31,
+83,Michael Burry,TOST,Oracle Corp,0.00%,0,$0 ,105.68,$105.68 (+19.2%),2024-03-31,
+84,Michael Burry,QRTEA,Nexstar Media Group Inc,0.00%,0,$0 ,159.48,$159.48 (-1.9%),2024-03-31,
+85,Michael Burry,ORCL,Mettler Toledo International,0.00%,0,$0 ,1160.52,$1160.52 (+24.0%),2024-03-31,
+86,Michael Burry,NXST,Mgm Resorts International,0.00%,0,$0 ,40.72,$40.72 (-0.1%),2024-03-31,
+87,Michael Burry,MTD,Gen Restaurent Group,0.00%,0,$0 ,9.74,$9.74 (-0.5%),2024-03-31,
+88,Michael Burry,MGM,Cvs Health Corp,0.00%,0,$0 ,74.39,$74.39 (-17.0%),2024-03-31,
+89,Michael Burry,GENK,Bruker Corp,0.00%,0,$0 ,67.89,$67.89 (-4.7%),2024-03-31,
+90,Michael Burry,Want to see a new feature on HedgeFollow?  Let us know,Booking Holdings Inc,0.00%,0,$0 ,2892.14,$2892.14 (+31.8%),2024-03-31,
+91,Michael Burry,CVS,Big Lots Inc,0.00%,0,$0 ,6.45,$6.45 (-58.8%),2024-03-31,
+92,Michael Burry,BRKR,Amazon Com Inc,0.00%,0,$0 ,139.53,$139.53 (+32.1%),2024-03-31,
+93,Michael Burry,BKNG,Alphabet Inc,0.00%,0,$0 ,135.28,$135.28 (+29.0%),2024-03-31,
+94,Michael Burry,BIG,Jd.com Inc,9.53%,360k,$ 9.86M,29.53,$29.53 (-0.7%),2024-03-31,
+95,Michael Burry,AMZN,Alibaba Group Hldg Ltd,8.74%,125k,$ 9.04M,80.42,$80.42 (-2.5%),2024-03-31,
+96,Michael Burry,GOOGL,Hca Healthcare Inc,8.06%,25k,$ 8.34M,267.09,$267.09 (+26.3%),2024-03-31,
+97,George Soros,GOOGL,Alphabet Inc,5.23%,1.49M,$ 224.98M,106.14,$106.14 (+64.4%),2024-03-31,Tech
+98,George Soros,AER,Aercap Holdings Nv,3.97%,1.97M,$ 170.90M,62.78,$62.78 (+44.0%),2024-03-31,Finance
+99,George Soros,AEL,American Eqty Invt Life Hld,2.51%,1.92M,$ 107.90M,53.63,$53.63 (+5.3%),2024-03-31,Finance
+100,George Soros,NVO,Novo-nordisk A S,2.38%,797.62k,$ 102.41M,86.14,$86.14 (+65.9%),2024-03-31,Health Care
+101,George Soros,CERE,Cerevel Therapeutics Hldng I,1.91%,1.94M,$ 82.01M,42.34,$42.34 (-5.5%),2024-03-31,Health Care
+102,George Soros,LBRDK,Liberty Broadband Corp,1.85%,1.39M,$ 79.54M,58.99,$58.99 (-12.5%),2024-03-31,Consumer Discretionary
+103,George Soros,AMZN,Amazon Com Inc,1.66%,395.51k,$ 71.34M,149.69,$149.69 (+23.1%),2024-03-31,Tech
+104,George Soros,CRH,Crh Plc,1.59%,791.54k,$ 68.28M,54.9,$54.9 (+41.7%),2024-03-31,Industrial
+105,George Soros, ,Aramark,1.56%,2.06M,$ 66.96M,30.58,$30.58 (+8.7%),2024-03-31,Cosumer Staple
+106,George Soros,ARMK,Booking Holdings Inc,1.51%,17.91k,$ 64.97M,2193.75,$2193.75 (+73.8%),2024-03-31,Tech
+107,George Soros,BKNG,Jacobs Solutions Inc,1.25%,350.85k,$ 53.94M,129.58,$129.58 (+7.3%),2024-03-31,Industrial
+108,George Soros,J,Uber Technologies Inc,1.08%,606.36k,$ 46.68M,29.3,$29.3 (+136.6%),2024-03-31,Tech
+109,George Soros,UBER,Okta Inc,1.04%,426.33k,$ 44.60M,97.58,$97.58 (-10.4%),2024-03-31,Tech
+110,George Soros,OKTA,Westrock Co,1.03%,900k,$ 44.51M,45.49,$45.49 (+14.0%),2024-03-31,Industrial
+111,George Soros,WRK,Cboe Global Mkts Inc,0.88%,205.78k,$ 37.81M,125.66,$125.66 (+37.4%),2024-03-31,
+112,George Soros,CBOE,Ishares Inc,0.86%,642.50k,$ 36.99M,49.11,$49.11 (+18.0%),2024-03-31,
+113,George Soros,EMXC,Pg&e Corp,0.82%,2.12M,$ 35.49M,17.4,$17.4 (+3.7%),2024-03-31,
+114,George Soros, ,Accenture Plc Ireland,0.79%,97.86k,$ 33.92M,323.39,$323.39 (-10.8%),2024-03-31,
+115,George Soros,PCG,Doordash Inc,0.72%,224.94k,$ 30.98M,76.19,$76.19 (+48.7%),2024-03-31,
+116,George Soros,ACN,D R Horton Inc,0.68%,178.60k,$ 29.39M,147.15,$147.15 (-4.7%),2024-03-31,
+117,George Soros,DASH,Nike Inc,0.68%,310.72k,$ 29.20M,117.21,$117.21 (-17.6%),2024-03-31,
+118,George Soros,DHI,Teck Resources Ltd,0.65%,613.45k,$ 28.08M,42.88,$42.88 (+14.7%),2024-03-31,
+119,George Soros,NKE,Sunrun Inc,0.64%,2.08M,$ 27.43M,16.41,$16.41 (-18.0%),2024-03-31,
+120,George Soros,TECK,Astrazeneca Plc,0.63%,400k,$ 27.10M,67.55,$67.55 (+18.5%),2024-03-31,
+121,George Soros,RUN,Ishares Tr,0.62%,245k,$ 26.68M,109.79,$109.79 (-1.7%),2024-03-31,
+122,George Soros,AZN,Interactive Brokers Group In,0.62%,237.45k,$ 26.53M,73.43,$73.43 (+68.5%),2024-03-31,
+123,George Soros,Want to see a new feature on HedgeFollow?  Let us know,Vestis Corporation,0.61%,1.36M,$ 26.23M,19.82,$19.82 (-38.2%),2024-03-31,
+124,George Soros,LQD,Ishares Tr,0.60%,241.40k,$ 25.98M,113.46,$113.46 (-6.0%),2024-03-31,
+125,George Soros,IBKR,Merck & Co Inc,0.54%,175k,$ 23.09M,105.99,$105.99 (+23.3%),2024-03-31,
+126,George Soros,VSTS,Csx Corp,0.53%,610k,$ 22.61M,32.15,$32.15 (+1.9%),2024-03-31,
+127,George Soros,MUB,Renaissancere Hldgs Ltd,0.53%,96.19k,$ 22.61M,193.43,$193.43 (+17.8%),2024-03-31,
+128,George Soros,MRK,Indie Semiconductor Inc,0.52%,3.17M,$ 22.44M,8.18,$8.18 (-9.2%),2024-03-31,
+129,George Soros,CSX,Neurocrine Biosciences Inc,0.51%,159.78k,$ 22.04M,116.56,$116.56 (+15.8%),2024-03-31,
+130,George Soros,RNR,Spdr Ser Tr,0.51%,434.96k,$ 21.87M,49.94,$49.94 (-5.0%),2024-03-31,
+131,George Soros,INDI,Darling Ingredients Inc,0.48%,441.86k,$ 20.55M,49.18,$49.18 (-24.7%),2024-03-31,
+132,George Soros,"Did you know: The largest hedge funds have difficulty deploying capital to small-cap stocks, hence often miss out on big winners.",Axonics Inc,0.47%,295.95k,$ 20.41M,65.6,$65.6 (+2.3%),2024-03-31,
+133,George Soros,NBIX,Gfl Environmental Inc,0.47%,580.34k,$ 20.02M,34.51,$34.51 (+5.5%),2024-03-31,
+134,George Soros,KRE,Allstate Corp,0.43%,107.57k,$ 18.61M,123.51,$123.51 (+33.6%),2024-03-31,
+135,George Soros,DAR,Cloudflare Inc,0.42%,185.36k,$ 17.95M,90.05,$90.05 (-21.5%),2024-03-31,
+136,George Soros,AXNX,Vanguard World Fds,0.42%,174.59k,$ 17.88M,78.74,$78.74 (+27.1%),2024-03-31,
+137,George Soros,GFL,Datadog Inc,0.40%,140.59k,$ 17.38M,101.93,$101.93 (+7.4%),2024-03-31,
+138,George Soros,ALL,Atlassian Corporation,0.38%,84.11k,$ 16.41M,233.08,$233.08 (-29.9%),2024-03-31,
+139,George Soros,NET,Ishares Tr,0.38%,675k,$ 16.25M,24.05,$24.05 (+13.1%),2024-03-31,
+140,George Soros,VFH,Sanofi,0.37%,325k,$ 15.79M,53.07,$53.07 (-7.7%),2024-03-31,
+141,George Soros,Want to see a new feature on HedgeFollow?  Let us know,Ishares Tr,0.36%,200k,$ 15.55M,76.01,$76.01 (+1.4%),2024-03-31,
+142,George Soros,DDOG,American Intl Group Inc,0.35%,195.40k,$ 15.27M,72.96,$72.96 (+4.2%),2024-03-31,
+143,George Soros,TEAM,Bgc Group Inc,0.35%,1.96M,$ 15.21M,5.02,$5.02 (+61.6%),2024-03-31,
+144,George Soros,FXI,Honeywell Intl Inc,0.35%,73.61k,$ 15.11M,199.13,$199.13 (+4.8%),2024-03-31,
+145,George Soros,SNY,Matador Res Co,0.35%,225k,$ 15.02M,61.82,$61.82 (-6.1%),2024-03-31,
+146,George Soros,HYG,Intuitive Surgical Inc,0.35%,37.50k,$ 14.97M,314.83,$314.83 (+32.6%),2024-03-31,
+147,George Soros,AIG,Alphabet Inc,5.23%,1.49M,$ 224.98M,106.14,$106.14 (+64.4%),2024-03-31,
+148,George Soros,BGC,Aercap Holdings Nv,3.97%,1.97M,$ 170.90M,62.78,$62.78 (+44.0%),2024-03-31,
+149,George Soros,HON,American Eqty Invt Life Hld,2.51%,1.92M,$ 107.90M,53.63,$53.63 (+5.3%),2024-03-31,
+150,George Soros,Tip: See hot stocks to find heavily traded stocks over past week/month,Novo-nordisk A S,2.38%,797.62k,$ 102.41M,86.14,$86.14 (+65.9%),2024-03-31,
+151,George Soros,MTDR,Cerevel Therapeutics Hldng I,1.91%,1.94M,$ 82.01M,42.34,$42.34 (-5.5%),2024-03-31,
+152,George Soros,ISRG,Liberty Broadband Corp,1.85%,1.39M,$ 79.54M,58.99,$58.99 (-12.5%),2024-03-31,
+153,Bill Ackman,CMG,Chipotle Mexican Grill Inc,20.10%,743.98k,$ 2.16B,435.72,$435.72 (+627.3%),2024-03-31,Cosumer Staple
+154,Bill Ackman,HLT,Hilton Worldwide Hldgs Inc,18.20%,9.18M,$ 1.96B,86.89,$86.89 (+132.7%),2024-03-31,Consumer Discretionary
+155,Bill Ackman,QSR,Restaurant Brands Intl Inc,16.30%,23.73M,$ 1.73B,43.17,$43.17 (+59.3%),2024-04-25,Cosumer Staple
+156,Bill Ackman,GOOG,Alphabet Inc,13.27%,9.38M,$ 1.43B,98.62,$98.62 (+78.4%),2024-03-31,Tech
+157,Bill Ackman,CP,Canadian Pacific Kansas City,12.37%,15.10M,$ 1.33B,68.4,$68.4 (+12.9%),2024-03-31,Transportation
+158,Bill Ackman,HHH,Howard Hughes Holdings Inc,11.56%,18.85M,$ 1.23B,83.91,$83.91 (-20.3%),2024-05-23,Real Estate
+159,Bill Ackman,GOOGL,Alphabet Inc,6.11%,4.35M,$ 657.27M,110.58,$110.58 (+57.8%),2024-03-31,Tech
+160,Bill Ackman,LOW,Lowes Cos Inc,0.00%,0,$0 ,99.48,$99.48 (+117.8%),2024-03-31,
+161,Bill Ackman, ,Chipotle Mexican Grill Inc,20.10%,743.98k,$ 2.16B,435.72,$435.72 (+627.3%),2024-03-31,
+162,John Paulson,MDGL,Madrigal Pharmaceuticals Inc,32.74%,1.77M,$ 474M,220.96,$220.96 (+10.6%),2024-03-31,
+163,John Paulson,BHC,Bausch Health Cos Inc,19.37%,26.44M,$ 280.52M,95.01,$95.01 (-93.4%),2024-03-31,
+164,John Paulson,BSIG,Brightsphere Invt Group Inc,14.12%,8.95M,$ 204.42M,12.02,$12.02 (+82.7%),2024-03-31,
+165,John Paulson,PPTA,Perpetua Resources Corp,7.12%,24.77M,$ 103.05M,5.41,$5.41 (+22.4%),2024-03-31,
+166,John Paulson,NG,Novagold Res Inc,5.64%,27.24M,$ 81.71M,3.53,$3.53 (+5.4%),2024-03-31,
+167,John Paulson,AU,Anglogold Ashanti Plc,4.50%,2.93M,$ 65.11M,18.39,$18.39 (+24.4%),2024-03-31,
+168,John Paulson,AEM,Agnico Eagle Mines Ltd,3.23%,783.56k,$ 46.74M,57.19,$57.19 (+11.6%),2024-03-31,
+169,John Paulson,THRY,Thryv Hldgs Inc,3.07%,2M,$ 44.46M,13.5,$13.5 (+53.0%),2024-03-31,
+170,John Paulson, ,International Tower Hill Min,3.06%,64.20M,$ 44.30M,0.67,$0.67 (-13.4%),2024-03-31,
+171,John Paulson,THM,Newmark Group Inc,2.30%,3M,$ 33.27M,10.25,$10.25 (-3.3%),2024-03-31,
+172,John Paulson,NMRK,Seabridge Gold Inc,2.16%,2.07M,$ 31.30M,16.13,$16.13 (-9.9%),2024-03-31,
+173,John Paulson,SA,Equinox Gold Corp,1.04%,2.50M,$ 15.05M,8.93,$8.93 (-42.7%),2024-03-31,
+174,John Paulson,EQX,Trilogy Metals Inc New,0.49%,14.33M,$ 7.16M,1.56,$1.56 (-68.6%),2024-03-31,
+175,John Paulson,TMQ,Iamgold Corp,0.43%,1.85M,$ 6.16M,5.77,$5.77 (-38.0%),2024-03-31,
+176,John Paulson,IAG,Alibaba Group Hldg Ltd,0.25%,50k,$ 3.62M,154,$154 (-49.1%),2024-03-31,
+177,John Paulson,BABA,Tellurian Inc New,0.24%,5.34M,$ 3.52M,3.7,$3.7 (-79.7%),2024-03-31,
+178,John Paulson,TELL,Altice Usa Inc,0.21%,1.16M,$ 3.03M,2.93,$2.93 (-16.0%),2024-03-31,
+179,John Paulson, ,Carrols Restaurant Group Inc,0.04%,58.01k,$ 552k,8.7,$8.7 (+9.7%),2024-03-31,
+180,John Paulson,ATUS,Ssr Mining In,0.00%,0,$0 ,15.22,$15.22 (-67.1%),2024-03-31,
+181,John Paulson,TAST,Madrigal Pharmaceuticals Inc,32.74%,1.77M,$ 474M,220.96,$220.96 (+10.6%),2024-03-31,
+182,John Paulson,SSRM,Bausch Health Cos Inc,19.37%,26.44M,$ 280.52M,95.01,$95.01 (-93.4%),2024-03-31,
+183,David Tepper,BABA,Alibaba Group Hldg Ltd,12.17%,11.25M,$ 814.05M,81.24,$81.24 (-3.5%),2024-03-31,
+184,David Tepper,AMZN,Amazon Com Inc,10.32%,3.83M,$ 690.50M,116.71,$116.71 (+57.9%),2024-03-31,
+185,David Tepper,MSFT,Microsoft Corp,8.80%,1.40M,$ 589.01M,304.77,$304.77 (+39.1%),2024-03-31,
+186,David Tepper,META,Meta Platforms Inc,8.15%,1.12M,$ 545.06M,233.13,$233.13 (+111.5%),2024-03-31,
+187,David Tepper,NVDA,Nvidia Corporation,5.97%,442k,$ 399.37M,330.52,$330.52 (+265.8%),2024-03-31,
+188,David Tepper,GOOG,Alphabet Inc,4.72%,2.08M,$ 315.94M,70.34,$70.34 (+150.1%),2024-03-31,
+189,David Tepper,AMD,Advanced Micro Devices Inc,4.40%,1.63M,$ 294.20M,105.96,$105.96 (+58.4%),2024-03-31,
+190,David Tepper,ORCL,Oracle Corp,4.32%,2.30M,$ 288.90M,109.85,$109.85 (+14.6%),2024-03-31,
+191,David Tepper, ,Pdd Holdings Inc,3.65%,2.10M,$ 244.13M,111.5,$111.5 (+29.1%),2024-03-31,
+192,David Tepper,PDD,Baidu Inc,2.83%,1.80M,$ 189.50M,123.21,$123.21 (-22.2%),2024-03-31,
+193,David Tepper,BIDU,Adobe Inc,2.64%,350k,$ 176.61M,550.6,$550.6 (-15.5%),2024-03-31,
+194,David Tepper,ADBE,Fedex Corp,2.60%,600k,$ 173.84M,218.09,$218.09 (+13.6%),2024-03-31,
+195,David Tepper,FDX,Qualcomm Inc,2.51%,990k,$ 167.61M,123.31,$123.31 (+67.6%),2024-03-31,
+196,David Tepper,QCOM,Intel Corp,2.48%,3.75M,$ 165.64M,33.06,$33.06 (-7.0%),2024-03-31,
+197,David Tepper,INTC,Ishares Tr,2.29%,6.38M,$ 153.45M,24.05,$24.05 (+13.1%),2024-03-31,
+198,David Tepper,FXI,Micron Technology Inc,2.14%,1.22M,$ 143.24M,61.73,$61.73 (+112.1%),2024-03-31,
+199,David Tepper,MU,Energy Transfer L P,2.03%,8.64M,$ 135.98M,10.02,$10.02 (+54.5%),2024-03-31,
+200,David Tepper, ,Lam Research Corp,1.67%,115k,$ 111.73M,586.49,$586.49 (+64.1%),2024-03-31,
+201,David Tepper,ET,Uber Technologies Inc,1.56%,1.36M,$ 104.71M,31.49,$31.49 (+120.1%),2024-03-31,
+202,David Tepper,LRCX,Caesars Entertainment Inc Ne,1.50%,2.30M,$ 100.60M,46.21,$46.21 (-22.0%),2024-03-31,
+203,David Tepper,UBER,Jd.com Inc,1.49%,3.65M,$ 99.97M,28.14,$28.14 (+4.2%),2024-03-31,
+204,David Tepper,CZR,Unitedhealth Group Inc,1.48%,200k,$ 98.94M,350.23,$350.23 (+40.1%),2024-03-31,
+205,David Tepper,JD,Kraneshares Tr,1.36%,3.48M,$ 91.22M,26.63,$26.63 (+11.5%),2024-03-31,
+206,David Tepper,UNH,United Parcel Service Inc,1.33%,600k,$ 89.18M,155.95,$155.95 (-11.7%),2024-03-31,
+207,David Tepper,KWEB,Asml Holding N V,1.16%,80k,$ 77.64M,702.73,$702.73 (+46.3%),2024-03-31,
+208,David Tepper,UPS,Eqt Corp,1.14%,2.06M,$ 76.36M,19.59,$19.59 (+106.9%),2024-03-31,
+209,David Tepper,Did you know: Famous hedge funds are often outperformed by modern funds. Famous funds remain famous because the media is stuck in the past.,Taiwan Semiconductor Mfg Ltd,1.02%,500k,$ 68.03M,96.97,$96.97 (+69.5%),2024-03-31,
+210,David Tepper,ASML,Antero Resources Corp,0.87%,2M,$ 58M,15.74,$15.74 (+116.1%),2024-03-31,
+211,David Tepper,EQT,Boeing Co,0.65%,225k,$ 43.42M,226.83,$226.83 (-16.1%),2024-03-31,
+212,David Tepper,TSM,Southwestern Energy Co,0.54%,4.80M,$ 36.38M,5.51,$5.51 (+31.2%),2024-03-31,
+213,David Tepper,AR,Macys Inc,0.42%,1.40M,$ 27.99M,17.5,$17.5 (+5.3%),2024-03-31,
+214,David Tepper,BA,Mplx Lp,0.41%,660k,$ 27.43M,32.62,$32.62 (+25.8%),2024-03-31,
+215,David Tepper,SWN,Ke Hldgs Inc,0.35%,1.71M,$ 23.41M,15.19,$15.19 (+4.8%),2024-03-31,
+216,David Tepper,M,Chesapeake Energy Corp,0.27%,203k,$ 18.03M,75.85,$75.85 (+16.4%),2024-03-31,
+217,David Tepper,MPLX,Norfolk Southn Corp,0.17%,45k,$ 11.47M,216.66,$216.66 (+3.4%),2024-03-31,
+218,David Tepper,Want to see a new feature on HedgeFollow?  Let us know,Lyft Inc,0.14%,467.62k,$ 9.05M,17.17,$17.17 (-9.1%),2024-03-31,
+219,David Tepper,BEKE,Whirlpool Corp,0.00%,0,$0 ,127.74,$127.74 (-31.0%),2024-03-31,
+220,David Tepper,CHK,Owens Corning New,0.00%,0,$0 ,142.32,$142.32 (+24.3%),2024-03-31,
+221,David Tepper,NSC,Mohawk Inds Inc,0.00%,0,$0 ,94.66,$94.66 (+19.8%),2024-03-31,
+222,David Tepper,LYFT,Masco Corp,0.00%,0,$0 ,60.22,$60.22 (+9.6%),2024-03-31,
+223,David Tepper,WHR,Hca Healthcare Inc,0.00%,0,$0 ,258.33,$258.33 (+30.6%),2024-03-31,
+224,David Tepper,OC,General Mtrs Co,0.00%,0,$0 ,34.45,$34.45 (+32.7%),2024-03-31,
+225,David Tepper,MHK,Fmc Corp,0.00%,0,$0 ,65.01,$65.01 (-12.8%),2024-03-31,
+226,David Tepper,MAS,Alibaba Group Hldg Ltd,12.17%,11.25M,$ 814.05M,81.24,$81.24 (-3.5%),2024-03-31,
+227,David Tepper,Tip: Use the Stock Screener to find the best stocks using a variety of metrics,Amazon Com Inc,10.32%,3.83M,$ 690.50M,116.71,$116.71 (+57.9%),2024-03-31,
+228,David Tepper,HCA,Microsoft Corp,8.80%,1.40M,$ 589.01M,304.77,$304.77 (+39.1%),2024-03-31,
+229,David Tepper,GM,Meta Platforms Inc,8.15%,1.12M,$ 545.06M,233.13,$233.13 (+111.5%),2024-03-31,
+230,David Tepper,FMC,Nvidia Corporation,5.97%,442k,$ 399.37M,330.52,$330.52 (+265.8%),2024-03-31,
+231,Daniel Loeb,PCG,Pg&e Corp,12.46%,57.86M,$ 969.73M,9.66,$9.66 (+86.9%),2024-03-31,
+232,Daniel Loeb,AMZN,Amazon Com Inc,11.82%,5.10M,$ 919.94M,126.75,$126.75 (+45.4%),2024-03-31,
+233,Daniel Loeb,MSFT,Microsoft Corp,9.54%,1.76M,$ 742.57M,281.94,$281.94 (+50.3%),2024-03-31,
+234,Daniel Loeb,BBWI,Bath & Body Works Inc,8.26%,12.85M,$ 642.76M,32.9,$32.9 (+39.3%),2024-03-31,
+235,Daniel Loeb,META,Meta Platforms Inc,7.71%,1.24M,$ 600.18M,302.98,$302.98 (+62.7%),2024-03-31,
+236,Daniel Loeb,DHR,Danaher Corporation,6.58%,2.05M,$ 511.93M,108.39,$108.39 (+142.7%),2024-03-31,
+237,Daniel Loeb,GOOGL,Alphabet Inc,5.82%,3M,$ 452.79M,145.31,$145.31 (+20.1%),2024-03-31,
+238,Daniel Loeb,VST,Vistra Corp,4.00%,4.47M,$ 311.34M,27.03,$27.03 (+214.7%),2024-03-31,
+239,Daniel Loeb, ,American Intl Group Inc,3.47%,3.45M,$ 269.69M,56.64,$56.64 (+34.2%),2024-03-31,
+240,Daniel Loeb,AIG,Jacobs Solutions Inc,3.46%,1.75M,$ 269.03M,120.61,$120.61 (+15.3%),2024-03-31,
+241,Daniel Loeb,J,Ferguson Plc New,3.06%,1.09M,$ 238.09M,113.29,$113.29 (+75.4%),2024-03-31,
+242,Daniel Loeb,FERG,Fleetcor Technologies Inc,2.58%,650k,$ 200.55M,270.41,$270.41 (-4.2%),2024-03-31,
+243,Daniel Loeb,CPAY,Verizon Communications Inc,2.52%,4.67M,$ 196.16M,35.06,$35.06 (+16.8%),2024-03-31,
+244,Daniel Loeb,VZ,Taiwan Semiconductor Mfg Ltd,2.05%,1.18M,$ 159.86M,96.97,$96.97 (+69.5%),2024-03-31,
+245,Daniel Loeb,TSM,S&p Global Inc,1.83%,335k,$ 142.53M,432.99,$432.99 (-1.0%),2024-03-31,
+246,Daniel Loeb,SPGI,Intercontinental Exchange In,1.77%,1M,$ 137.43M,116.42,$116.42 (+14.9%),2024-03-31,
+247,Daniel Loeb,ICE,Cinemark Hldgs Inc,1.68%,7M,$ 131.46M,16.82,$16.82 (-0.1%),2024-05-14,
+248,Daniel Loeb, ,Advance Auto Parts Inc,1.64%,1.50M,$ 127.64M,73.06,$73.06 (-11.6%),2024-03-31,
+249,Daniel Loeb,CNK,International Flavors&fragra,1.55%,1.40M,$ 120.39M,97.43,$97.43 (+1.1%),2024-03-31,
+250,Daniel Loeb,AAP,Apollo Global Mgmt Inc,1.45%,1M,$ 112.45M,92.61,$92.61 (+21.3%),2024-03-31,
+251,Daniel Loeb,IFF,Marvell Technology Inc,1.39%,1.52M,$ 108.09M,65.6,$65.6 (+3.6%),2024-03-31,
+252,Daniel Loeb,APO,Goldman Sachs Group Inc,1.34%,250k,$ 104.42M,401.73,$401.73 (+13.2%),2024-03-31,
+253,Daniel Loeb,MRVL,Wesco Intl Inc,1.16%,525.20k,$ 89.96M,147.68,$147.68 (+19.4%),2024-03-31,
+254,Daniel Loeb,GS,Eqt Corp,0.93%,1.95M,$ 72.29M,39.62,$39.62 (+2.3%),2024-03-31,
+255,Daniel Loeb,WCC,Global Blue Group Holding Ag,0.56%,8.39M,$ 43.95M,6.95,$6.95 (-31.8%),2024-03-31,
+256,Daniel Loeb,EQT,Uber Technologies Inc,0.49%,500k,$ 38.49M,39.86,$39.86 (+73.9%),2024-03-31,
+257,Daniel Loeb,Want to see a new feature on HedgeFollow?  Let us know,Telephone & Data Sys Inc,0.44%,2.14M,$ 34.23M,13.78,$13.78 (+55.7%),2024-03-31,
+258,Daniel Loeb,GB,Gartner Inc,0.34%,55k,$ 26.22M,463.89,$463.89 (-6.3%),2024-03-31,
+259,Daniel Loeb,UBER,United States Cellular Corp,0.26%,545.34k,$ 19.91M,32.57,$32.57 (+71.8%),2024-03-31,
+260,Daniel Loeb,TDS,Flyexclusive Inc,0.06%,1.02M,$ 4.42M,5.5,$5.5 (-18.2%),2024-03-31,
+261,Daniel Loeb,IT,Aurora Innovation Inc,0.04%,1.03M,$ 2.91M,10.6,$10.6 (-78.5%),2024-03-31,
+262,Daniel Loeb,USM,Patterson-uti Energy Inc,0.02%,150k,$ 1.79M,11.37,$11.37 (-10.1%),2024-03-31,
+263,Daniel Loeb,FLYX,United States Stl Corp New,0.00%,0,$0 ,30.36,$30.36 (+26.1%),2024-03-31,
+264,Daniel Loeb,AUR,Mckesson Corp,0.00%,0,$0 ,448.92,$448.92 (+30.7%),2024-03-31,
+265,Daniel Loeb,PTEN,Dupont De Nemours Inc,0.00%,0,$0 ,71.18,$71.18 (+12.4%),2024-03-31,
+266,Daniel Loeb,"Did you know: HedgeFollow corrected over 1 million errors made by hedge funds and institutions, making it the gold standard for fund data.",Biomarin Pharmaceutical Inc,0.00%,0,$0 ,92.45,$92.45 (-12.7%),2024-03-31,
+267,Daniel Loeb,X,Apollo Global Mgmt Inc,<.01%,900k,$ 57.38M,55.1,$55.1 (+15.7%),2024-03-31,
+268,Daniel Loeb,MCK,Pg&e Corp,12.46%,57.86M,$ 969.73M,9.66,$9.66 (+86.9%),2024-03-31,
+269,Daniel Loeb,DD,Amazon Com Inc,11.82%,5.10M,$ 919.94M,126.75,$126.75 (+45.4%),2024-03-31,
+270,Daniel Loeb,BMRN,Microsoft Corp,9.54%,1.76M,$ 742.57M,281.94,$281.94 (+50.3%),2024-03-31,
+271,Daniel Loeb,APOPRA,Bath & Body Works Inc,8.26%,12.85M,$ 642.76M,32.9,$32.9 (+39.3%),2024-03-31,
